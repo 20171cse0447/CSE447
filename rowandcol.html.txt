@@ -1,0 +1,32 @@
+  
+<html>
+<head>
+<title>HTML table colspan/rowspan</title>
+</head>
+<body>
+<table border="1" width="400" height="150">
+<tr>
+<th>column1</th>
+<th>column2</th>
+<th>column3</th>
+</tr>
+<tr>
+<td rowspan="2">row1 cell1</td>
+<td>row 1 cell 2</td>
+<td>row 1 cell 3</td>
+</tr>
+</td>
+<tr>
+<td>row 2 cell 2</td>
+<td>row 2 cell 3</td>
+</tr>
+<tr>
+<td colspan="3">row 3 cell 1</td>
+</tr>
+</table>
+click<a href="http://www.google.com">here</a></br>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">content of the picture link</a></br>
+<a href="mailto:navyashree96322@gmail.com">Send Email</a>
+</body>
+</html>
+© 2020 GitHub, Inc.
